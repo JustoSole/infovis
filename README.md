@@ -1,6 +1,7 @@
 # infovis
+
 Trabajos practicos vis de info
 
-markdown:
+[cheatsheet markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[mi primer html](https://justosole.github.io/infovis/index.html)
