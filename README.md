@@ -6,4 +6,4 @@ Trabajos practicos vis de info
 
 [mi primer html](https://justosole.github.io/infovis/index.html)
 
-[Palabra que no conocia](https://justosole.github.io/infovis/lunes(8.3.21).html)
+[Palabras que no conocia](https://justosole.github.io/infovis/lunes(8.3.21).html)
