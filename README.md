@@ -7,3 +7,5 @@ Trabajos practicos vis de info
 [mi primer html](https://justosole.github.io/infovis/index.html)
 
 [Palabras que no conocia](https://justosole.github.io/infovis/lunes(8.3.21).html)
+
+[1-makeover monday](https://public.tableau.com/profile/justo.sole.o#!/vizhome/1_makeovermonday_seatswomen/Sheet1)
