@@ -9,3 +9,5 @@ Trabajos practicos vis de info
 [Palabras que no conocia](https://raw.githubusercontent.com/JustoSole/infovis/gh-pages/lunes(8.3.21).txt)
 
 [1-makeover monday](https://justosole.github.io/infovis/Makeovermonday1.html)
+
+[2-makeover monday](https://justosole.github.io/infovis/Makeovermonday2.html)
