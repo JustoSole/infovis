@@ -13,3 +13,5 @@ Trabajos practicos vis de info
 [2-makeover monday](https://justosole.github.io/infovis/Makeovermonday2.html)
 
 [Censo argentina](https://justosole.github.io/infovis/censo_arg.html)
+
+[Tp datos personales](https://justosole.github.io/infovis/tpDatosPersonales.html)
